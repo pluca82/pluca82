@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pluca82
-- 👀 I’m interested in Java/Javascript / learning more about frontend/backend development
-- 🌱 I’m currently learning java/Javascript
+- 👀 I’m interested in  learning more about frontend/backend development
 - 💞️ I’m looking to collaborate on any projects that would help me grow as a unior developer !
 - 📫 reach me at pluca1660@gmail.com
 
